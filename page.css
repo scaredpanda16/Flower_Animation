@@ -11,6 +11,7 @@
 	 height: 260px;
 	 left: 50%;
 	 margin-left: -230px;
+	 cursor: pointer;
 }
  #card .heart {
 	 width: 260px;
